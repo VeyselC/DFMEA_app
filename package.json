@@ -12,7 +12,10 @@
   "dependencies": {
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "xlsx": "^0.18.5"
+    "xlsx": "^0.18.5",
+    "tailwindcss": "^3.3.2",
+    "postcss": "^8.4.21",
+    "autoprefixer": "^10.4.14"
   },
   "devDependencies": {
     "@eslint/js": "^9.26.0",
